@@ -41,13 +41,13 @@
 <body class="color-scheme-neue">
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
-	<div class="bg-img view_timer" data-end-date="2023/4/07/21:47" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
-    <div class="bg-img view_timer" data-start-date="2023/4/07/21:47" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
+	<div class="bg-img view_timer" data-end-date="2023/4/07 21:51:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
+    <div class="bg-img view_timer" data-start-date="2023/4/07 21:51:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
 		<div class="centered-unit">
-			<div class="container view_timer" data-end-date="2023/4/07/21:47">
+			<div class="container view_timer" data-end-date="2023/4/07 21:51:00">
 				<!-- Main header -->
 				<!--<h1>Coming soon!</h1> -->
 				
@@ -82,7 +82,7 @@
 				
 			</div>
 
-            <div class="container view_timer" data-start-date="2023/4/07/21:47">
+            <div class="container view_timer" data-start-date="2023/4/07 21:51:00">
 				<p class="m-5"></p>
 				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="50%">
 				<p class="m-5"></p>
@@ -216,7 +216,7 @@
             $(".view_timer").each(function(index, target) {
                 var startDate = $(this).attr("data-start-date");
                 var endDate = $(this).attr("data-end-date");
-                var nowDate = new Date("yyyy/mm/dd");
+                var nowDate = new Date();
 
             	if (startDate) {
                     startDate = new Date(startDate);
