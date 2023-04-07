@@ -12,6 +12,12 @@
 	<link rel="stylesheet" href="{{ asset('css/styles.css') }}" />
 	<!-- Icons via Font Awesome -->
 	<link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}" />
+	<meta property="og:url" content="https://hidden-mesa-01260.herokuapp.com/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="KENTA MORIMOTO TRIO presents Tuxedo" />
+	<meta property="og:description" content="森本ケンタトリオ新曲タキシード予告サイト" />
+	<meta property="og:site_name" content="KENTA MORIMOTO TRIO presents Tuxedo" />
+	<meta property="og:image" content="{{ asset('images/gtr.jpg') }}" />
 </head>
 
 <!-- Google tag (gtag.js) -->
