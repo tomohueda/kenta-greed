@@ -27,7 +27,7 @@
 				<!--<h1>Coming soon!</h1> -->
 				
 				<!-- Sub header -->
-				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="50%">
+				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="60%">
 				<p class="lead">KENTA MORIMOTO TRIO<br>presents</p>
 				
 				<!-- Countdown -->
