@@ -19,15 +19,7 @@
 	<meta property="og:site_name" content="KENTA MORIMOTO TRIO presents Tuxedo" />
 	<meta property="og:image" content="{{ asset('images/gtr.jpg') }}" />
 </head>
-<style>
-  /* CSS */
-	.js-time_limited{
-		display: none;
-	}
-	.js-time_limited_fire{
-		display: block;
-	}
-</style>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7710TGENDN"></script>
 <script>
@@ -41,13 +33,13 @@
 <body class="color-scheme-neue">
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
-	<div class="bg-img view_timer" data-end-date="2023/4/07 21:51:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
-    <div class="bg-img view_timer" data-start-date="2023/4/07 21:51:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
+	<div class="bg-img view_timer" data-end-date="April 7, 2023 21:57:00 UTC+0900" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
+    <div class="bg-img view_timer" data-start-date="April 7, 2023 21:57:00 UTC+0900" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
 		<div class="centered-unit">
-			<div class="container view_timer" data-end-date="2023/4/07 21:51:00">
+			<div class="container view_timer" data-end-date="April 7, 2023 21:57:00 UTC+0900">
 				<!-- Main header -->
 				<!--<h1>Coming soon!</h1> -->
 				
@@ -82,7 +74,7 @@
 				
 			</div>
 
-            <div class="container view_timer" data-start-date="2023/4/07 21:51:00">
+            <div class="container view_timer" data-start-date="April 7, 2023 21:57:00 UTC+0900">
 				<p class="m-5"></p>
 				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="50%">
 				<p class="m-5"></p>
@@ -176,7 +168,7 @@
 		// Activate countdownTimer plugin on a '.countdown' element
 		$(".countdown").countdownTimer({
 			// Set the end date for the countdown
-			endTime: new Date("April 12, 2023 12:00:00 UTC+0900")
+			endTime: new Date("April 7, 2023 21:57:00 UTC+0900")
 		});
 		
 		
@@ -229,12 +221,8 @@
 
                 if (startDate <= nowDate && (!endDate || nowDate <= endDate)) {
                     $(this).show();
-					//$(this).addClass("js-time_limited_fire");
-					//$(this).removeClass("js-time_limited");
                 } else {
                     $(this).hide();
-					//$(this).addClass("js-time_limited");
-					//$(this).removeClass("js-time_limited_fire");
                 }
         });
         }
