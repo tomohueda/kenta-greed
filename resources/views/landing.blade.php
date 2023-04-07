@@ -198,10 +198,10 @@
 				$("body,html").animate({scrollTop: $(window).height()});
 			});
 		});		
-		/*
+		
         // タイマー表示
         countdown();
-        setInterval(countdown, 1000);
+        //setInterval(countdown, 1000);
         function countdown() {
             //console.log("待ってね..");
             $(".view_timer").each(function(index, target) {
@@ -225,7 +225,7 @@
                 }
             });
         }
-		*/
+		
 	});
     
 	</script>
