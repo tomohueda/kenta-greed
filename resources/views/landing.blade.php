@@ -206,6 +206,7 @@
             //console.log("待ってね..");
             
         }
+		/*
 		$(".view_timer").each(function(index, target) {
                 var startDate = $(this).attr("data-start-date");
                 var endDate = $(this).attr("data-end-date");
@@ -226,6 +227,7 @@
                     $(this).hide();
                 }
             });
+			*/
 	});
     
 	</script>
