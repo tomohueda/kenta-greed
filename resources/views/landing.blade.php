@@ -19,7 +19,15 @@
 	<meta property="og:site_name" content="KENTA MORIMOTO TRIO presents Tuxedo" />
 	<meta property="og:image" content="{{ asset('images/gtr.jpg') }}" />
 </head>
-
+<style>
+  /* CSS */
+	.js-time_limited{
+		display: none;
+	}
+	.js-time_limited_fire{
+		display: block;
+	}
+</style>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7710TGENDN"></script>
 <script>
@@ -178,9 +186,11 @@
                 }
 
                 if (startDate <= nowDate && (!endDate || nowDate <= endDate)) {
-                    $(this).show();
+                    //$(this).show();
+					$(this).addClass("js-time_limited_fire");
                 } else {
-                    $(this).hide();
+                    //$(this).hide();
+					$(this).addClass("js-time_limited");
                 }
         });
 		// Activate countdownTimer plugin on a '.countdown' element
