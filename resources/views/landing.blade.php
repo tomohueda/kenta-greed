@@ -198,7 +198,7 @@
 				$("body,html").animate({scrollTop: $(window).height()});
 			});
 		});		
-
+		/*
         // タイマー表示
         countdown();
         setInterval(countdown, 1000);
@@ -225,7 +225,7 @@
                 }
             });
         }
-
+		*/
 	});
     
 	</script>
