@@ -99,6 +99,7 @@
         -->
 		<!-- Detailed info -->
 			<div class="container few-words">
+			<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
 			<p class="text-center">
 						Composer & guitar / Kenta Morimoto<br>
 			Five strings cello / Koichi Kawaoka<br>
