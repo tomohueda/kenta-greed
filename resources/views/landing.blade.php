@@ -41,13 +41,13 @@
 <body class="color-scheme-neue">
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
-	<div class="bg-img view_timer" data-end-date="2023/4/12/12:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
-    <div class="bg-img view_timer" data-start-date="2023/4/12/12:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
+	<div class="bg-img view_timer" data-end-date="2023/4/07/21:40" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
+    <div class="bg-img view_timer" data-start-date="2023/4/07/21:40" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
 		<div class="centered-unit">
-			<div class="container view_timer" data-end-date="2023/4/12/12:00">
+			<div class="container view_timer" data-end-date="2023/4/07/21:40">
 				<!-- Main header -->
 				<!--<h1>Coming soon!</h1> -->
 				
@@ -82,10 +82,11 @@
 				
 			</div>
 
-            <div class="container view_timer" data-start-date="2023/4/12/12:00">
+            <div class="container view_timer" data-start-date="2023/4/07/21:40">
 				<p class="m-5"></p>
 				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="50%">
 				<p class="m-5"></p>
+				<!--Youtube Here-->
 				(動画が表示されない場合はこのページを再読み込みしてください)
 				<p class="lead">Now on Youtube!</p>
             </div>
@@ -171,28 +172,7 @@
 	
 	<script type="text/javascript">
 	$().ready(function(){
-		$(".view_timer").each(function(index, target) {
-                var startDate = $(this).attr("data-start-date");
-                var endDate = $(this).attr("data-end-date");
-                var nowDate = new Date();
-
-            	if (startDate) {
-                    startDate = new Date(startDate);
-                } else {
-                startDate = nowDate;
-                }
-                if (endDate) {
-                    endDate = new Date(endDate);
-                }
-
-                if (startDate <= nowDate && (!endDate || nowDate <= endDate)) {
-                    //$(this).show();
-					$(this).addClass("js-time_limited_fire");
-                } else {
-                    //$(this).hide();
-					$(this).addClass("js-time_limited");
-                }
-        });
+		
 		// Activate countdownTimer plugin on a '.countdown' element
 		$(".countdown").countdownTimer({
 			// Set the end date for the countdown
@@ -230,10 +210,33 @@
 		
         // タイマー表示
         countdown();
-        //setInterval(countdown, 1000);
+        setInterval(countdown, 1000);
         function countdown() {
             //console.log("待ってね..");
-            
+            $(".view_timer").each(function(index, target) {
+                var startDate = $(this).attr("data-start-date");
+                var endDate = $(this).attr("data-end-date");
+                var nowDate = new Date();
+
+            	if (startDate) {
+                    startDate = new Date(startDate);
+                } else {
+                startDate = nowDate;
+                }
+                if (endDate) {
+                    endDate = new Date(endDate);
+                }
+
+                if (startDate <= nowDate && (!endDate || nowDate <= endDate)) {
+                    //$(this).show();
+					$(this).addClass("js-time_limited_fire");
+					$(this).removeClass("js-time_limited");
+                } else {
+                    //$(this).hide();
+					$(this).addClass("js-time_limited");
+					$(this).removeClass("js-time_limited_fire");
+                }
+        });
         }
 
 	});
