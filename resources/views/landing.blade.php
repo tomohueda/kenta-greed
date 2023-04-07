@@ -13,16 +13,27 @@
 	<!-- Icons via Font Awesome -->
 	<link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}" />
 </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7710TGENDN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7710TGENDN');
+</script>
+
 <body class="color-scheme-neue">
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
-	<div class="bg-img view_timer" data-end-date="2023/4/12 12:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
-    <div class="bg-img view_timer" data-start-date="2023/4/12 12:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
+	<div class="bg-img view_timer" data-end-date="2023/4/12/12:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
+    <div class="bg-img view_timer" data-start-date="2023/4/12/12:00" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
 		<div class="centered-unit">
-			<div class="container view_timer" data-end-date="2023/4/12 12:00">
+			<div class="container view_timer" data-end-date="2023/4/12/12:00">
 				<!-- Main header -->
 				<!--<h1>Coming soon!</h1> -->
 				
@@ -57,30 +68,14 @@
 				
 			</div>
 
-            <div class="container view_timer" data-start-date="2023/4/12 12:00">
+            <div class="container view_timer" data-start-date="2023/4/12/12:00">
 				<p class="m-5"></p>
 				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="50%">
 				<p class="m-5"></p>
-				<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fnJ8GprkPVU" allowfullscreen width="80%" height="400"></iframe>
-				</div>
+				(動画が表示されない場合はこのページを再読み込みしてください)
 				<p class="lead">Now on Youtube!</p>
             </div>
-
-		</div>
-	</div>
-	
-	<!-- Second screen -->
-	<div class="overlap">
-		<!-- Link "Scroll down to learn more" -->
-        <!--
-		<a href="" class="more">Scroll down <i class="fa fa-chevron-down"></i> to learn more</a>
-        -->
-		<!-- Detailed info -->
-		<div class="container few-words">
-			<div class="row">
-					<!-- Social icons -->
-					<div class="social">
+			<div class="social">
 						<a href="https://www.youtube.com/user/MorimotoKentaTV" class="social-icon" target="_blank">
 							<i class="fa fa-youtube fa-lg"></i>
 						</a>
@@ -90,10 +85,59 @@
 						<a href="https://morimotokenta.com/" class="social-icon" target="_blank">
 							<i class="fa fa-laptop fa-lg"></i>
 						</a>
-					</div>
 			</div>
+			
 		</div>
+
+	</div>
+	
+	<!-- Second screen -->
+	<div class="overlap">
+		<!-- Link "Scroll down to learn more" -->
+        <!--
+		<a href="" class="more">Scroll down <i class="fa fa-chevron-down"></i> to learn more</a>
+        -->
+		<!-- Detailed info -->
+			<div class="container few-words">
+			<p class="text-center">
+						Composer & guitar / Kenta Morimoto<br>
+			Five strings cello / Koichi Kawaoka<br>
+			Percussion / Taisuke Morikawa<br>
+			<br>
+			<br>
+			Manager / Akiko Kanei<br>
+			Photographer / Takahiro Umemura<br>
+			Stylist / ako<br>
+			Video grapher / Tomoo Ueda & Hiroko Nishizawa<br>
+			<br>
+			Special thanks / Mr.Hiroki<br>
+			<br>
+			＝＝＝＝＝＝＝WEB＝＝＝＝＝＝＝＝<br>
+			▼Kenta Morimoto Official<br>
+			<a href="http://www.morimotokenta.com/index.html" target="_blank">http://www.morimotokenta.com/index.html</a><br>
+			<br>
+			▼Facebook <br>
+			<a href="https://www.facebook.com/profile.php?id=100043091613250" target="_blank">https://www.facebook.com/profile.php?id=100043091613250</a><br>
+			<br>
+			▼schedule<br>
+			<a href="https://morimotokenta.com/schedule/" target="_blank">https://morimotokenta.com/schedule/</a><br>
+			<br>
+			▼SHOP<br>
+			<a href="https://kentamorimoto.shop-pro.jp/?mode=srh" target="_blank">https://kentamorimoto.shop-pro.jp/?mode=srh</a><br>
+			<br>
+			▼ Fan Club<br>
+			<a href="https://morimotokenta.com/fc/" target="_blank">https://morimotokenta.com/fc/</a><br>
+			<br>
+			▼office<br>
+			<a href="https://morimotokenta.com/jobrequest.shtml" target="_blank">https://morimotokenta.com/jobrequest.shtml</a><br>
+			<br>	
+				</p>
+			</div>
+			
 		<!-- Detailed info block end -->
+
+
+
 		<!-- Footer -->
 		<div class="footer">
 			<div class="container">
