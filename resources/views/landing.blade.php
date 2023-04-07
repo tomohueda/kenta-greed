@@ -204,12 +204,14 @@
         //setInterval(countdown, 1000);
         function countdown() {
             //console.log("待ってね..");
-            $(".view_timer").each(function(index, target) {
+            
+        }
+		$(".view_timer").each(function(index, target) {
                 var startDate = $(this).attr("data-start-date");
                 var endDate = $(this).attr("data-end-date");
                 var nowDate = new Date();
 
-            if (startDate) {
+            	if (startDate) {
                     startDate = new Date(startDate);
                 } else {
                 startDate = nowDate;
@@ -224,8 +226,6 @@
                     $(this).hide();
                 }
             });
-        }
-		
 	});
     
 	</script>
