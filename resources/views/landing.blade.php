@@ -18,7 +18,7 @@
 	<meta property="og:title" content="KENTA MORIMOTO TRIO presents Tuxedo" />
 	<meta property="og:description" content="森本ケンタトリオ新曲『Tuxedo』プロモーションビデオ ティーザー" />
 	<meta property="og:site_name" content="森本ケンタトリオ『Tuxedo』GTR50バージョン" />
-	<meta property="og:image" content="{{ asset('images/gtr.jpg') }}" />
+	<meta property="og:image" content="{{ asset('images/og_image.jpg') }}" />
 </head>
 
 <!-- Google tag (gtag.js) -->
