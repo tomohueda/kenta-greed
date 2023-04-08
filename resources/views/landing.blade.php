@@ -109,17 +109,20 @@
 			<div class="container few-words">
 			<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
 			<p class="text-center">
-			Composer & guitar: Kenta Morimoto<br>
-			5 strings cello: Koichi Kawaoka<br>
-			Percussion: Taisuke Morikawa<br>
+			Composer & guitar:&nbsp;&nbsp;Kenta Morimoto<br>
+			5 strings cello:&nbsp;&nbsp;Koichi Kawaoka<br>
+			Percussion:&nbsp;&nbsp;Taisuke Morikawa<br>
 			<br>
-			Manager: Akiko Kanei<br>
-			Photographer: Takahiro Umemura<br>
-			Stylist: ako<br>
-			Hair: Tsuyoshi Kobayashi (ABLAZE)<br>
-			Videographer: Tomoo Ueda / Hiroko Nishizawa<br>
+			Recording engineer:&nbsp;&nbsp;Masahiro Odahara<br>
+			Mixing & mastering engineer:&nbsp;&nbsp;Isamu Harada<br>
 			<br>
-			Special thanks: Mr.Hiroki<br>
+			Manager:&nbsp;&nbsp;Akiko Kanei<br>
+			Photographer:&nbsp;&nbsp;Takahiro Umemura<br>
+			Stylist:&nbsp;&nbsp;ako<br>
+			Hair:&nbsp;&nbsp;Tsuyoshi Kobayashi (ABLAZE)<br>
+			Videographer:&nbsp;&nbsp;Tomoh Ueda / Hiroko Nishizawa<br>
+			<br>
+			Special thanks:&nbsp;&nbsp;Mr.Hiroki<br>
 			<br>
 			＝＝＝＝＝＝＝WEB＝＝＝＝＝＝＝＝<br>
 			▼Kenta Morimoto Official<br>
