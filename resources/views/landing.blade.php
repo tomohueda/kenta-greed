@@ -114,20 +114,20 @@
 				<div class="col col-content">
 					<h4>Staff</h4>
 
-					Composer & guitar:&nbsp;&nbsp;Kenta Morimoto<br>
-					5 strings cello:&nbsp;&nbsp;Koichi Kawaoka<br>
-					Percussion:&nbsp;&nbsp;Taisuke Morikawa<br>
+					<i>Composer & guitar:</i>&nbsp;&nbsp;&nbsp;&nbsp;Kenta Morimoto<br>
+					<i>5 strings cello:</i>&nbsp;&nbsp;&nbsp;&nbsp;Koichi Kawaoka<br>
+					<i>Percussion:</i>&nbsp;&nbsp;&nbsp;&nbsp;Taisuke Morikawa<br>
 					<br>
-					Recording engineer:&nbsp;&nbsp;Masahiro Odahara<br>
-					Mixing & mastering engineer:&nbsp;&nbsp;Isamu Harada<br>
+					<i>Recording engineer:</i>&nbsp;&nbsp;&nbsp;&nbsp;Masahiro Odahara<br>
+					<i>Mixing & mastering engineer:</i>&nbsp;&nbsp;&nbsp;&nbsp;Isamu Harada<br>
 					<br>
-					Manager:&nbsp;&nbsp;Akiko Kanei<br>
-					Photographer:&nbsp;&nbsp;Takahiro Umemura<br>
-					Stylist:&nbsp;&nbsp;ako<br>
-					Hair:&nbsp;&nbsp;Tsuyoshi Kobayashi (ABLAZE)<br>
-					Videographer:&nbsp;&nbsp;Tomoh Ueda / Hiroko Nishizawa<br>
+					<i>Manager:</i>&nbsp;&nbsp;&nbsp;&nbsp;Akiko Kanei<br>
+					<i>Photographer:</i>&nbsp;&nbsp;&nbsp;&nbsp;Takahiro Umemura<br>
+					<i>Stylist:</i>&nbsp;&nbsp;&nbsp;&nbsp;ako<br>
+					<i>Hair:</i>&nbsp;&nbsp;&nbsp;&nbsp;Tsuyoshi Kobayashi (ABLAZE)<br>
+					<i>Videographer:</i>&nbsp;&nbsp;&nbsp;&nbsp;Tomoh Ueda / Hiroko Nishizawa<br>
 					<br>
-					Special thanks:&nbsp;&nbsp;Mr.Hiroki<br>
+					<i>Special thanks:</i>&nbsp;&nbsp;&nbsp;&nbsp;Mr.Hiroki<br>
 					<br>
 
 				</div>
