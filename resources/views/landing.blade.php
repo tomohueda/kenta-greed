@@ -131,10 +131,10 @@
 			▼Instagram <br>
 			<a href="https://www.instagram.com/kenta57morimoto/" target="_blank">https://www.instagram.com/kenta57morimoto/</a><br>
 			<br>
-			▼schedule<br>
+			▼Schedule<br>
 			<a href="https://morimotokenta.com/schedule/" target="_blank">https://morimotokenta.com/schedule/</a><br>
 			<br>
-			▼SHOP<br>
+			▼Shop<br>
 			<a href="https://morimotokenta.com/onlineshop.shtml" target="_blank">https://morimotokenta.com/onlineshop.shtml</a><br>
 			<br>
 			▼ Fan Club<br>
