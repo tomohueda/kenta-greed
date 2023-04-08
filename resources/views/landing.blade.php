@@ -103,49 +103,59 @@
 	<!-- Second screen -->
 	<div class="overlap">
 		<!-- Link "Scroll down to learn more" -->
-
+		
 		<a href="" class="more">Scroll down <i class="fa fa-chevron-down"></i> to learn more</a>
 
 		<!-- Detailed info -->
-			<div class="container few-words">
-			<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
-			<p class="text-center">
-			Composer & guitar:&nbsp;&nbsp;Kenta Morimoto<br>
-			5 strings cello:&nbsp;&nbsp;Koichi Kawaoka<br>
-			Percussion:&nbsp;&nbsp;Taisuke Morikawa<br>
-			<br>
-			Recording engineer:&nbsp;&nbsp;Masahiro Odahara<br>
-			Mixing & mastering engineer:&nbsp;&nbsp;Isamu Harada<br>
-			<br>
-			Manager:&nbsp;&nbsp;Akiko Kanei<br>
-			Photographer:&nbsp;&nbsp;Takahiro Umemura<br>
-			Stylist:&nbsp;&nbsp;ako<br>
-			Hair:&nbsp;&nbsp;Tsuyoshi Kobayashi (ABLAZE)<br>
-			Videographer:&nbsp;&nbsp;Tomoh Ueda / Hiroko Nishizawa<br>
-			<br>
-			Special thanks:&nbsp;&nbsp;Mr.Hiroki<br>
-			<br>
-			＝＝＝＝＝＝＝WEB＝＝＝＝＝＝＝＝<br>
-			▼Kenta Morimoto Official<br>
-			<a href="https://morimotokenta.com" target="_blank">https://morimotokenta.com</a><br>
-			<br>
-			▼Instagram <br>
-			<a href="https://www.instagram.com/kenta57morimoto/" target="_blank">https://www.instagram.com/kenta57morimoto/</a><br>
-			<br>
-			▼Schedule<br>
-			<a href="https://morimotokenta.com/schedule/" target="_blank">https://morimotokenta.com/schedule/</a><br>
-			<br>
-			▼Shop<br>
-			<a href="https://morimotokenta.com/onlineshop.shtml" target="_blank">https://morimotokenta.com/onlineshop.shtml</a><br>
-			<br>
-			▼ Fan Club<br>
-			<a href="https://morimotokenta.com/fc/" target="_blank">https://morimotokenta.com/fc/</a><br>
-			<br>
-			</p>
-			</div>
-			
-		<!-- Detailed info block end -->
+		<div class="container few-words">
+		<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
+			<div class="row">
+				<!-- First column -->
+				<div class="col col-content">
+					<h4>Staff</h4>
 
+					Composer & guitar:&nbsp;&nbsp;Kenta Morimoto<br>
+					5 strings cello:&nbsp;&nbsp;Koichi Kawaoka<br>
+					Percussion:&nbsp;&nbsp;Taisuke Morikawa<br>
+					<br>
+					Recording engineer:&nbsp;&nbsp;Masahiro Odahara<br>
+					Mixing & mastering engineer:&nbsp;&nbsp;Isamu Harada<br>
+					<br>
+					Manager:&nbsp;&nbsp;Akiko Kanei<br>
+					Photographer:&nbsp;&nbsp;Takahiro Umemura<br>
+					Stylist:&nbsp;&nbsp;ako<br>
+					Hair:&nbsp;&nbsp;Tsuyoshi Kobayashi (ABLAZE)<br>
+					Videographer:&nbsp;&nbsp;Tomoh Ueda / Hiroko Nishizawa<br>
+					<br>
+					Special thanks:&nbsp;&nbsp;Mr.Hiroki<br>
+					<br>
+
+				</div>
+				<!-- Second column -->
+				<div class="col col-content">
+				<h4>Web</h4>
+					<p class="text-center">
+					<!--<h4><i class="fa fa-globe"></i>&nbsp;&nbsp;Web</h4>-->
+					<i class="fa fa-home"></i>&nbsp;&nbsp;Kenta Morimoto Official<br>
+					<a href="https://morimotokenta.com" target="_blank">https://morimotokenta.com</a><br>
+					<br>
+					<i class="fa fa-instagram"></i>&nbsp;&nbsp;Instagram <br>
+					<a href="https://www.instagram.com/kenta57morimoto/" target="_blank">https://www.instagram.com/kenta57morimoto/</a><br>
+					<br>
+					<i class="fa fa-calendar"></i>&nbsp;&nbsp;Schedule<br>
+					<a href="https://morimotokenta.com/schedule/" target="_blank">https://morimotokenta.com/schedule/</a><br>
+					<br>
+					<i class="fa fa-shopping-cart"></i>&nbsp;&nbsp;Shop<br>
+					<a href="https://morimotokenta.com/onlineshop.shtml" target="_blank">https://morimotokenta.com/onlineshop.shtml</a><br>
+					<br>
+					<i class="fa fa-smile-o"></i>&nbsp;&nbsp;Fan Club<br>
+					<a href="https://morimotokenta.com/fc/" target="_blank">https://morimotokenta.com/fc/</a><br>
+					<br>
+					</p>
+				</div>
+			<!-- Detailed info block end -->
+			</div>
+		</div>
 
 
 		<!-- Footer -->
