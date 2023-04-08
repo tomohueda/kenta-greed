@@ -82,6 +82,7 @@
 				(動画が表示されない場合はこのページを再読み込みしてください)
 				<p class="lead">Now on Youtube!</p>
             </div>
+			<!--
 			<div class="social">
 						<a href="https://www.youtube.com/user/MorimotoKentaTV" class="social-icon" target="_blank">
 							<i class="fa fa-youtube fa-lg"></i>
@@ -93,7 +94,7 @@
 							<i class="fa fa-laptop fa-lg"></i>
 						</a>
 			</div>
-			
+			-->
 		</div>
 
 	</div>
@@ -101,45 +102,42 @@
 	<!-- Second screen -->
 	<div class="overlap">
 		<!-- Link "Scroll down to learn more" -->
-        <!--
+
 		<a href="" class="more">Scroll down <i class="fa fa-chevron-down"></i> to learn more</a>
-        -->
+
 		<!-- Detailed info -->
 			<div class="container few-words">
 			<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
 			<p class="text-center">
-						Composer & guitar / Kenta Morimoto<br>
-			Five strings cello / Koichi Kawaoka<br>
-			Percussion / Taisuke Morikawa<br>
+			Composer & guitar: Kenta Morimoto<br>
+			5 strings cello: Koichi Kawaoka<br>
+			Percussion: Taisuke Morikawa<br>
 			<br>
+			Manager: Akiko Kanei<br>
+			Photographer: Takahiro Umemura<br>
+			Stylist: ako<br>
+			Hair: Tsuyoshi Kobayashi (ABLAZE)<br>
+			Videographer: Tomoo Ueda / Hiroko Nishizawa<br>
 			<br>
-			Manager / Akiko Kanei<br>
-			Photographer / Takahiro Umemura<br>
-			Stylist / ako<br>
-			Video grapher / Tomoo Ueda & Hiroko Nishizawa<br>
-			<br>
-			Special thanks / Mr.Hiroki<br>
+			Special thanks: Mr.Hiroki<br>
 			<br>
 			＝＝＝＝＝＝＝WEB＝＝＝＝＝＝＝＝<br>
 			▼Kenta Morimoto Official<br>
-			<a href="http://www.morimotokenta.com/index.html" target="_blank">http://www.morimotokenta.com/index.html</a><br>
+			<a href="https://morimotokenta.com" target="_blank">https://morimotokenta.com</a><br>
 			<br>
-			▼Facebook <br>
-			<a href="https://www.facebook.com/profile.php?id=100043091613250" target="_blank">https://www.facebook.com/profile.php?id=100043091613250</a><br>
+			▼Instagram <br>
+			<a href="https://www.instagram.com/kenta57morimoto/" target="_blank">https://www.instagram.com/kenta57morimoto/</a><br>
 			<br>
 			▼schedule<br>
 			<a href="https://morimotokenta.com/schedule/" target="_blank">https://morimotokenta.com/schedule/</a><br>
 			<br>
 			▼SHOP<br>
-			<a href="https://kentamorimoto.shop-pro.jp/?mode=srh" target="_blank">https://kentamorimoto.shop-pro.jp/?mode=srh</a><br>
+			<a href="https://morimotokenta.com/onlineshop.shtml" target="_blank">https://morimotokenta.com/onlineshop.shtml</a><br>
 			<br>
 			▼ Fan Club<br>
 			<a href="https://morimotokenta.com/fc/" target="_blank">https://morimotokenta.com/fc/</a><br>
 			<br>
-			▼office<br>
-			<a href="https://morimotokenta.com/jobrequest.shtml" target="_blank">https://morimotokenta.com/jobrequest.shtml</a><br>
-			<br>	
-				</p>
+			</p>
 			</div>
 			
 		<!-- Detailed info block end -->
