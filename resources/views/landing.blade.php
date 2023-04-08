@@ -16,8 +16,8 @@
 	<meta property="og:url" content="https://xs802606.xsrv.jp/kenta-tuxedo/" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="KENTA MORIMOTO TRIO presents Tuxedo" />
-	<meta property="og:description" content="森本ケンタトリオ新曲『Tuxedo』プロモーションビデオ予告サイト" />
-	<meta property="og:site_name" content="森本ケンタトリオ『Tuxedo』発売" />
+	<meta property="og:description" content="森本ケンタトリオ新曲『Tuxedo』プロモーションビデオ ティーザー" />
+	<meta property="og:site_name" content="森本ケンタトリオ『Tuxedo』GTR50バージョン" />
 	<meta property="og:image" content="{{ asset('images/gtr.jpg') }}" />
 </head>
 
