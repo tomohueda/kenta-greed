@@ -18,7 +18,7 @@
 	<meta property="og:title" content="KENTA MORIMOTO TRIO presents Tuxedo" />
 	<meta property="og:description" content="森本ケンタトリオ新曲『Tuxedo』プロモーションビデオ ティーザー" />
 	<meta property="og:site_name" content="森本ケンタトリオ『Tuxedo』GTR50バージョン" />
-	<meta property="og:image" content="{{ asset('images/og_image.jpg') }}" />
+	<meta property="og:image" content="{{ asset('images/og_image2.jpg') }}" />
 </head>
 
 <!-- Google tag (gtag.js) -->
@@ -34,8 +34,8 @@
 <body class="color-scheme-neue">
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
-	<div class="bg-img view_timer" data-end-date="{{$startTime}}" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>
-    <div class="bg-img view_timer" data-start-date="{{$startTime}}" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
+	<!--<div class="bg-img view_timer" data-end-date="{{$startTime}}" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>-->
+    <div class="bg-img view_timer" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
@@ -45,7 +45,7 @@
 				<!--<h1>Coming soon!</h1> -->
 				
 				<!-- Sub header -->
-				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="60%">
+				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="40%" style="margin-top:50px">
 				<p class="lead">KENTA MORIMOTO TRIO<br>presents</p>
 				
 				<!-- Countdown -->
