@@ -1354,7 +1354,8 @@ body.color-scheme-retro {
   color: #ffffff;
 }
 body.color-scheme-neue {
-  background-color: #373e4b;
+  /*background-color: #373e4b;*/
+  background-color: #000000;
 }
 .color-scheme-neue hr {
   border-color: rgba(255, 255, 255, 0.3);
