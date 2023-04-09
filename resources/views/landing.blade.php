@@ -72,7 +72,7 @@
 					</div>
 				</div>
 				<!-- Countdown end -->
-				<p class="lead" style="margin-top:-50px">KENTA MORIMOTO TRIO<br>presents</p>
+				<!--<p class="lead" style="margin-top:-50px">KENTA MORIMOTO TRIO<br>presents</p>-->
 			</div>
 
             <div class="container view_timer" data-start-date="{{$startTime}}">
