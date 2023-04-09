@@ -46,7 +46,7 @@
 				
 				<!-- Sub header -->
 				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="60%" style="margin-top:125px">
-				<p class="lead">KENTA MORIMOTO TRIO<br>presents</p>
+				
 				
 				<!-- Countdown -->
 				<div class="countdown circled large" style="margin-top:5px">
@@ -72,7 +72,7 @@
 					</div>
 				</div>
 				<!-- Countdown end -->
-				
+				<p class="lead" style="margin-top:-50px">KENTA MORIMOTO TRIO<br>presents</p>
 			</div>
 
             <div class="container view_timer" data-start-date="{{$startTime}}">
