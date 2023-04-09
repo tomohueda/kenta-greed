@@ -10,7 +10,7 @@
 	<!-- Open Sans from Google Webfonts -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
 	<!-- Main styles file -->
-	<link rel="stylesheet" href="{{ asset('css/styles.css') }}" />
+	<link rel="stylesheet" href="{{ asset('css/styles.dev.css') }}" />
 	<!-- Icons via Font Awesome -->
 	<link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}" />
 	<meta property="og:url" content="https://xs802606.xsrv.jp/kenta-tuxedo/" />
@@ -34,8 +34,8 @@
 <body class="color-scheme-neue">
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
-	<!--<div class="bg-img view_timer" data-end-date="{{$startTime}}" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover; "></div>-->
-    <div class="bg-img view_timer" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: cover; "></div>
+	<!--<div class="bg-img view_timer" data-end-date="{{$startTime}}" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover;"></div>-->
+    <div class="bg-img view_timer" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: contain;  background-position-y: top;"></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
@@ -45,7 +45,7 @@
 				<!--<h1>Coming soon!</h1> -->
 				
 				<!-- Sub header -->
-				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="300px" style="margin-top:100px">
+				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="300px" style="margin-top:50px">
 				<p class="lead" style="margin-top:10px">KENTA MORIMOTO TRIO<br>presents</p>
 				
 				<!-- Countdown -->
