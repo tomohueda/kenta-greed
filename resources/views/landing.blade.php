@@ -113,92 +113,53 @@
 		<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
 			<div class="row">
 				<!-- First column -->
-				<!--<div class="col col-heading">
+				<div class="col col-heading">
 				<h4>News</h4>
-					●森本ケンタ『Tuxedo』<br>
-					プロモーションビデオ<br>
-					<a href="https://youtu.be/VIrxjOtWKuk" target="_blank">https://youtu.be/VIrxjOtWKuk</a><br>
-					<br>
-					●発売日<br>
-					2023.4.29<br>
-					<br>
-					●商品名<br>
-					Music & Coffee『Tuxedo』<br>
-					<br>
-					●内容<br>
-					３曲収録ミュージックカード<br>
-					ドリップバッグコーヒー3個<br>
-					セットで2,200円（税込）<br>
-					<br>
-					●収録曲<br>
-					1.Tuxedo<br>
-					2.Julieta trio ver.<br>
-					3.Memories<br>
-					<br>
-					【発売イベント】<br>
-					●４月２９日（土）<br>
-					１３：００<br>
-					広島駅南口地下広場エールエール（トリオでの出演）<br>
-					無料観覧・サイン会あり<br>
-					<br>
-					１７：００<br>
-					アリスガーデン（ケンタ一人の出演）<br>
-					無料観覧<br>
-					<br>
-					●５月４日（木）<br>
-					三原市　極楽寺　奉納ライブ<br>
-					申し込み受付中<br>
-					<br>
-					●５月５日（金）<br>
-					府中天満屋2階<br>
-					１４：５５<br>
-					太鼓ユニット我龍とコラボ予定<br>
-					<br>
-					●５月６日（土）<br>
-					山口県防府<br>
-					イオンタウン防府<br>
-					時間まだ未定<br>
-					観覧無料<br>
-					<br>
-					●５月１３日（土）<br>
-					広島市西区横川<br>
-					カジル横川<br>
-					詳細未定<br>
-					観覧無料<br>
-					<br>
-					●５月１４日（日）<br>
-					山口県宇部<br>
-					フジグラン宇部<br>
-					１１：００ <br>
-					１４：００ <br>
-					観覧無料<br>
-					<br>
-					<br>
-					<br>
-					【ラジオキャンペーン出演】<br>
-					●４月１０(月) 出演時間１０：３０ 予定<br>
-					FM はつかいち『キラキラ☆アートBOX』<br>
-					<br>
-					●４月２４日(月)出演時間１３：３０ 予定<br>
-					FMちゅーぴー『広島すまいるパフェ』<br>
-					<br>
-					●４月２４日(月)出演時間１７：００ 予定<br>
-					miniFM広島マチナカ78.7MHz『ゆうちゃんねる』<br>
-					<br>
-					●４月２８日(金)出演時間未定<br>
-					しゅうなんFM 電話生出演<br>
-					<br>
-					●５月８日(月)出演時間13:10 予定<br>
-					RCCラジオ『おひるーな』<br>
-					<br>
-					●５月９日(火)出演時間23:00 予定<br>
-					RCCラジオ『西田篤史のシンラジラ』<br>
-					<br>
-					●５月１１日(木)出演時間10:15 予定<br>
-					広島FM 『GOOD JOG』
-					
-
-				</div>-->
+				●森本ケンタ『Tuxedo』<br>
+				ミュージックビデオ<br>
+				<a href="https://youtu.be/VIrxjOtWKuk" target="_blank">https://youtu.be/VIrxjOtWKuk</a><br>
+				<br>
+				●発売日<br>
+				2023.4.29<br>
+				<br>
+				●商品名<br>
+				Music & Coffee『Tuxedo』<br>
+				<br>
+				●内容<br>
+				ミュージックカード（３曲収録）<br>
+				ドリップバッグコーヒー（3個）<br>
+				<br>
+				●価格<br>
+				2,200円（税込）<br>
+				<br>
+				●収録曲<br>
+				1.Tuxedo<br>
+				2.Julieta trio ver.<br>
+				3.Memories<br>
+				<br>
+				<br>
+				【ラジオキャンペーン出演】<br>
+				●4/10(月) 出演時間10:30予定<br>
+				FM はつかいち『キラキラ☆アートBOX』<br>
+				<br>
+				●4/24(月)出演時間13:30予定<br>
+				FMちゅーぴー『広島すまいるパフェ』<br>
+				<br>
+				●4/24(月)出演時間17:00予定<br>
+				miniFM広島マチナカ78.7MHz『ゆうちゃんねる』<br>
+				<br>
+				●4/28(金)出演時間未定<br>
+				しゅうなんFM 電話生出演<br>
+				<br>
+				●5/8(月)出演時間13:10予定<br>
+				RCCラジオ『おひるーな』<br>
+				<br>
+				●5/9(火)出演時間23:00予定<br>
+				RCCラジオ『西田篤史のシンラジラ』<br>
+				<br>
+				●5/11(木)出演時間10:15予定<br>
+				広島FM 『GOOD JOG』
+				</div>
 				<!-- Second column -->
 				<div class="col col-content">
 					<h4>Staff</h4>
