@@ -113,7 +113,7 @@
 		<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
 			<div class="row">
 				<!-- First column -->
-				<div class="col col-heading">
+				<!--<div class="col col-heading">
 				<h4>News</h4>
 					●森本ケンタ『Tuxedo』<br>
 					プロモーションビデオ<br>
@@ -198,7 +198,7 @@
 					広島FM 『GOOD JOG』
 					
 
-				</div>
+				</div>-->
 				<!-- Second column -->
 				<div class="col col-content">
 					<h4>Staff</h4>
