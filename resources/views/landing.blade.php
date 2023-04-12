@@ -76,12 +76,14 @@
 			</div>
 
             <div class="container view_timer" data-start-date="{{$startTime}}">
-				<p class="m-5"></p>
-				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="50%">
-				<p class="m-5"></p>
+				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="200px" style="margin-top:60px">
+				<p class="lead" style="margin-top:-10px">KENTA MORIMOTO TRIO now on Youtube!</p>
 				<!--Youtube Here-->
-				(動画が表示されない場合はこのページを再読み込みしてください)
-				<p class="lead">Now on Youtube!</p>
+				<div class="embed-responsive embed-responsive-16by9">
+					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIrxjOtWKuk" allowfullscreen width="85%" height="400"></iframe>
+				</div>
+				<!--(動画が表示されない場合はこのページを再読み込みしてください)-->
+				<!--<p class="lead">Now on Youtube!</p>-->
             </div>
 			<!--
 			<div class="social">
