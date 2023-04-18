@@ -115,29 +115,68 @@
 				<!-- First column -->
 				<div class="col col-heading">
 				<h4>News</h4>
+				<hr>
 				●森本ケンタ『Tuxedo』<br>
 				ミュージックビデオ<br>
 				<a href="https://youtu.be/VIrxjOtWKuk" target="_blank">https://youtu.be/VIrxjOtWKuk</a><br>
-				<br>
 				●発売日<br>
 				2023.4.29<br>
-				<br>
 				●商品名<br>
 				Music & Coffee『Tuxedo』<br>
-				<br>
 				●内容<br>
 				ミュージックカード（３曲収録）<br>
 				ドリップバッグコーヒー（3個）<br>
-				<br>
 				●価格<br>
 				2,200円（税込）<br>
-				<br>
 				●収録曲<br>
 				1.Tuxedo<br>
 				2.Julieta trio ver.<br>
 				3.Memories<br>
-				<br>
-				<br>
+				<hr>
+				【発売イベント】<br>
+<br>
+●4月29日（土）<br>
+13:00 <br>
+広島駅南口地下広場エールエール<br>
+※観覧無料<br>
+17:00 <br>
+アリスガーデン<br>
+ [広島市中区新天地8]<br>
+※観覧無料<br>
+<br>
+●5月4日（木）<br>
+奉納ライブ 三原市極楽寺<br>
+ [三原市東町3-5-1]<br>
+12:30 open / 13:00 start<br>
+2000円<br>
+※事前予約制（お申し込み受付中）<br>
+ <br>
+●5月5日（金）<br>
+i-core FUCHU 府中天満屋2F<br>
+  [府中市府川町186-1 ]<br>
+13:00 open / 13:30 start  <br>
+(14:55頃の出演)<br>
+※観覧無料<br>
+※太鼓ユニット我龍とコラボ予定<br>
+<br>
+●5月6日（土）<br>
+イオンタウン防府<br>
+ [山口県防府市鐘紡町7-1]<br>
+11:30 / 13:30 <br>
+※観覧無料<br>
+<br>
+●5月13日（土）<br>
+カジル横川 特設ステージ<br>
+ [広島市西区横川町3-2-36]<br>
+15:00  出演予定<br>
+※観覧無料<br>
+<br>
+●5月14日（日）<br>
+フジグラン宇部<br>
+ [山口県宇部市明神町3-1-1]<br>
+11:00  / 14:00 <br>
+※観覧無料
+<hr>
 				【ラジオキャンペーン出演】<br>
 				●4/10(月) 出演時間10:30予定<br>
 				FM はつかいち『キラキラ☆アートBOX』<br>
