@@ -111,6 +111,30 @@
 		<!-- Detailed info -->
 		<div class="container few-words">
 		<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
+		<div class="row">
+		<div class="col">
+		
+			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_a.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
+			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_b.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
+			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_c.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
+			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_d.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
+			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_e.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
+			<br>
+			
+			
+			<h4>Music & Coffee「Tuxedo」2,200円（税込）</h4>
+			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank">森本ケンタ 公式 オンラインSHOP</a><br>
+			<br>
+			「Tuxedo」を含む3曲をダウンロードできるミュージックカードと、ドリップバッグコーヒーのセット。<br>
+			●発売日 2023.4.29<br>
+			●内容<br>
+			ミュージックカード（3曲収録）<br>
+			ドリップバッグコーヒー（3個）<br>
+			●収録曲<br>
+			1.Tuxedo, 2.Julieta trio ver., 3.Memories<br>
+		</div>
+
+		</div>
 			<div class="row">
 				<!-- First column -->
 				<div class="col col-heading">
@@ -119,19 +143,6 @@
 				●森本ケンタ『Tuxedo』<br>
 				ミュージックビデオ<br>
 				<a href="https://youtu.be/VIrxjOtWKuk" target="_blank">https://youtu.be/VIrxjOtWKuk</a><br>
-				●発売日<br>
-				2023.4.29<br>
-				●商品名<br>
-				Music & Coffee『Tuxedo』<br>
-				●内容<br>
-				ミュージックカード（３曲収録）<br>
-				ドリップバッグコーヒー（3個）<br>
-				●価格<br>
-				2,200円（税込）<br>
-				●収録曲<br>
-				1.Tuxedo<br>
-				2.Julieta trio ver.<br>
-				3.Memories<br>
 				<hr>
 				【発売イベント】<br>
 <br>
