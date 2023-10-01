@@ -115,11 +115,11 @@
 		<!-- Detailed info -->
 		<div class="container few-words">
 		<h2>KENTA MORIMOTO TRIO presents "Rouge"</h2>
-		
+		新曲「Rouge」は、ギター・チェロ・パーカッションの森本ケンタトリオのために森本ケンタが書き下ろした、セクシーでアンニュイな魅力を放つナンバー。<br><br>
 		<div class="row">
 			
 		<div class="col">
-			<a href="https://kentamorimoto.shop-pro.jp/" target="_blank"><img src="{{ asset('images/rouge_chirashi.jpg') }}" class="img-responsive mt-5" alt="Rouge Music & Coffee" width="300px"></a>
+			<a href="https://kentamorimoto.shop-pro.jp/" target="_blank"><img src="{{ asset('images/rouge_chirashi_v2.jpg') }}" class="img-responsive mt-5" alt="Rouge Music & Coffee" width="300px"></a>
 		
 			<br>
 			<h4>Music & Coffee「Rouge」2,500円（税込）</h4>
