@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="{{ asset('images/favicon.ico') }}">
-	<title>KENTA MORIMOTO TRIO presents "Tuxedo"</title>
+	<title>KENTA MORIMOTO TRIO presents "Rouge"</title>
 	<!-- Modernizr -->
 	<script src="{{ asset('js/modernizr.js')  }}"></script>
 	<!-- Open Sans from Google Webfonts -->
@@ -13,12 +13,12 @@
 	<link rel="stylesheet" href="{{ asset('css/styles.dev.css') }}" />
 	<!-- Icons via Font Awesome -->
 	<link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}" />
-	<meta property="og:url" content="https://xs802606.xsrv.jp/kenta-tuxedo/" />
+	<meta property="og:url" content="https://xs802606.xsrv.jp/kenta-rouge/" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="KENTA MORIMOTO TRIO presents Tuxedo" />
-	<meta property="og:description" content="森本ケンタトリオ新曲『Tuxedo』プロモーションビデオ ティーザー" />
-	<meta property="og:site_name" content="森本ケンタトリオ『Tuxedo』GTR50バージョン" />
-	<meta property="og:image" content="{{ asset('images/og_image2.jpg') }}" />
+	<meta property="og:title" content="KENTA MORIMOTO TRIO presents Rouge" />
+	<meta property="og:description" content="新曲「Rouge」は、ギター・チェロ・パーカッションの森本ケンタトリオのために森本ケンタが書き下ろした、セクシーでアンニュイな魅力を放つナンバー" />
+	<meta property="og:site_name" content="森本ケンタトリオ『Rouge』2023.10.8 Release" />
+	<meta property="og:image" content="{{ asset('images/landing_image_13.21.jpg') }}" />
 </head>
 
 <!-- Google tag (gtag.js) -->
@@ -35,7 +35,7 @@
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
 	<!--<div class="bg-img view_timer" data-end-date="{{$startTime}}" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover;"></div>-->
-    <div class="bg-img view_timer" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/trio.jpg') }}) no-repeat center center; background-size: contain;  background-position-y: top;"></div>
+    <div class="bg-img view_timer" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/landing_image_13.21.jpg') }}) no-repeat center center; background-size: contain;  background-position-y: top;"></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
@@ -76,12 +76,16 @@
 			</div>
 
             <div class="container view_timer" data-start-date="{{$startTime}}">
-				<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="200px" style="margin-top:60px">
+				<!--<img src="{{ asset('images/tuxedo_logo.png') }}" class="img-responsive mt-5" alt="Tuxedo logo" width="200px" style="margin-top:60px">-->
+				<!--
 				<p class="lead" style="margin-top:-10px">KENTA MORIMOTO TRIO now on Youtube!</p>
+				-->
 				<!--Youtube Here-->
+				<!--
 				<div class="embed-responsive embed-responsive-16by9">
 					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VIrxjOtWKuk" allowfullscreen width="85%" height="400"></iframe>
 				</div>
+				-->
 				<!--(動画が表示されない場合はこのページを再読み込みしてください)-->
 				<!--<p class="lead">Now on Youtube!</p>-->
             </div>
@@ -107,128 +111,153 @@
 		<!-- Link "Scroll down to learn more" -->
 		
 		<a href="" class="more">Scroll down <i class="fa fa-chevron-down"></i> to learn more</a>
-
+		
 		<!-- Detailed info -->
 		<div class="container few-words">
-		<h2>KENTA MORIMOTO TRIO presents "Tuxedo"</h2>
-		<div class="row">
-		<div class="col">
+		<h2>KENTA MORIMOTO TRIO presents "Rouge"</h2>
 		
-			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_a.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
-			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_b.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
-			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_c.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
-			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_d.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
-			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank"><img src="{{ asset('images/card/card_e.jpg') }}" class="img-responsive mt-5" alt="Tuxedo card_a" width="100px"></a>
-			<br>
+		<div class="row">
 			
-			
-			<h4>Music & Coffee「Tuxedo」2,200円（税込）</h4>
-			<a href="https://kentamorimoto.shop-pro.jp/?mode=cate&cbid=2655682&csid=0" target="_blank">森本ケンタ 公式 オンラインSHOP</a><br>
+		<div class="col">
+			<a href="https://kentamorimoto.shop-pro.jp/" target="_blank"><img src="{{ asset('images/rouge_chirashi.jpg') }}" class="img-responsive mt-5" alt="Rouge Music & Coffee" width="300px"></a>
+		
 			<br>
-			「Tuxedo」を含む3曲をダウンロードできるミュージックカードと、ドリップバッグコーヒーのセット。<br>
-			●発売日 2023.4.29<br>
+			<h4>Music & Coffee「Rouge」2,500円（税込）</h4>
+			<a href="https://kentamorimoto.shop-pro.jp/" target="_blank">森本ケンタ 公式 オンラインSHOP</a><br>
+			<br>
+			「Rouge」を含む3曲をダウンロードできるミュージックカードと、ドリップバッグコーヒーのセット。<br>
+			●発売日 2023.10.8<br>
 			●内容<br>
-			ミュージックカード（3曲収録）<br>
-			ドリップバッグコーヒー（3個）<br>
+			ミュージックカード:1枚（3曲収録・カードデザイン5種）<br>
+			ドリップバッグコーヒー（3袋）<br>
 			●収録曲<br>
-			1.Tuxedo, 2.Julieta trio ver., 3.Memories<br>
+			新曲『Rouge』を含む全3曲<br>
 		</div>
+		
 
 		</div>
 			<div class="row">
 				<!-- First column -->
 				<div class="col col-heading">
 				<h4>News</h4>
-				<hr>
+				<!--<hr>
 				●森本ケンタ『Tuxedo』<br>
 				ミュージックビデオ<br>
 				<a href="https://youtu.be/VIrxjOtWKuk" target="_blank">https://youtu.be/VIrxjOtWKuk</a><br>
+					-->
 				<hr>
 				【発売イベント】<br>
+				10/8発売<br>
+Music & Coffee『Rouge』<br>
+■ラジオ出演情報<br>
 <br>
-●4月29日（土）<br>
-13:00 <br>
-広島駅南口地下広場エールエール<br>
-※観覧無料<br>
-17:00 <br>
-アリスガーデン<br>
- [広島市中区新天地8]<br>
-※観覧無料<br>
+●9/30(土) 新曲初披露！<br>
+#RCCラジオ 「森本ケンタのハッピータイムRADIO♪』<br>
+提供：はつかいちサンブレイズ<br>
 <br>
-●5月4日（木）<br>
-奉納ライブ 三原市極楽寺<br>
- [三原市東町3-5-1]<br>
-12:30 open / 13:00 start<br>
-2000円<br>
-※事前予約制（お申し込み受付中）<br>
- <br>
-●5月5日（金）<br>
-i-core FUCHU 府中天満屋2F<br>
-  [府中市府川町186-1 ]<br>
-13:00 open / 13:30 start  <br>
-(14:55頃の出演)<br>
-※観覧無料<br>
-※太鼓ユニット我龍とコラボ予定<br>
+●10/2(月) 出演時間10:30 予定<br>
+#FM はつかいち 『キラキラ☆アートBOX』<br>
 <br>
-●5月6日（土）<br>
-イオンタウン防府<br>
- [山口県防府市鐘紡町7-1]<br>
-11:30 / 13:30 <br>
-※観覧無料<br>
+●10/2(月)出演時間13:30 予定<br>
+#FMちゅーぴー 『#広島すまいるパフェ 』<br>
 <br>
-●5月13日（土）<br>
-カジル横川 特設ステージ<br>
- [広島市西区横川町3-2-36]<br>
-15:00  出演予定<br>
-※観覧無料<br>
+●10/2(月)出演時間18:00 予定<br>
+RCCラジオ『#それ聴けveryカープ 』<br>
 <br>
-●5月14日（日）<br>
-フジグラン宇部<br>
- [山口県宇部市明神町3-1-1]<br>
-11:00  / 14:00 <br>
-※観覧無料
-<hr>
-				【ラジオキャンペーン出演】<br>
-				●4/10(月) 出演時間10:30予定<br>
-				FM はつかいち『キラキラ☆アートBOX』<br>
-				<br>
-				●4/24(月)出演時間13:30予定<br>
-				FMちゅーぴー『広島すまいるパフェ』<br>
-				<br>
-				●4/24(月)出演時間17:00予定<br>
-				miniFM広島マチナカ78.7MHz『ゆうちゃんねる』<br>
-				<br>
-				●4/28(金)出演時間未定<br>
-				しゅうなんFM 電話生出演<br>
-				<br>
-				●5/8(月)出演時間13:10予定<br>
-				RCCラジオ『おひるーな』<br>
-				<br>
-				●5/9(火)出演時間23:00予定<br>
-				RCCラジオ『西田篤史のシンラジラ』<br>
-				<br>
-				●5/11(木)出演時間10:15予定<br>
-				広島FM 『GOOD JOG』
+●10/3(火)出演時間13:10 予定<br>
+RCCラジオ『#おひるーな 』<br>
+<br>
+●10/9(月祝)出演時間17:15 予定<br>
+#FMふくやま 『#イブニングステーション 』<br>
+<br>
+●10/12(木)出演時間10:15 予定<br>
+#広島FM 『#神原隆秀のGOODJOG 』<br>
+<br>
+※変更する場合もございますので、詳しくは公式サイトのスケジュールからご確認ください<br>
+<br>
+<br>
+■リリースLIVE<br>
+<br>
+Music & Coffee「Rouge」<br>
+発売イベント（10月）<br>
+<br>
+●10/8（日）<br>
+会場：広島駅南口地下広場特設ステージ<br>
+時間：13:00<br>
+出演：森本ケンタトリオ（森本ケンタ・森川泰介・川岡光一）<br>
+<br>
+※観覧無料<br>
+※販売は12:30 予定<br>
+※ステージ後にサイン会<br>
+※発売日5種類購入特典：森本ケンタトリオと記念撮影会<br>
+<br>
+<br>
+●10/9（月祝）<br>
+会場：そごう広島店正面玄関前<br>
+時間：14:00 <br>
+※観覧無料<br>
+※販売・サイン会は、そごう広島店本館5階Hiroshimarche Etto内で行います<br>
+<br>
+<br>
+「美味しいコーヒー淹れますよ」<br>
+会場：そごう広島店本館5階エスカレーター横<br>
+時間：15:00 <br>
+料金：Tallman’s Cafe Premium  1杯 550円（税込）<br>
+※テイクアウトのみとなります<br>
+※サイン会とコーヒーのお渡しは同じ列でお並び下さい<br>
+※コーヒーカウンターの周りに立ち止まらないようお願い致します<br>
+<br>
+<br>
+●10/14（土）<br>
+会場：フジグラン神辺<br>
+時間：①11:00 ／ ②14:00<br>
+<br>
+※観覧無料<br>
+※ステージ後に販売・サイン会を行います<br>
+<br>
+<br>
+●10/28（土）<br>
+会場：イオンタウン防府<br>
+時間：①13:00 ／②15:00<br>
+<br>
+※観覧無料<br>
+※ステージ後に販売・サイン会を行います<br>
+<br>
+<br>
+●10/29（日）フレスタモールカジル横川ハロウィンナイト2023ゲスト<br>
+会場：カジル横川特設ステージ<br>
+時間：16:30<br>
+<br>
+※観覧無料<br>
+※ステージ後に販売・サイン会を行います
 				</div>
 				<!-- Second column -->
 				<div class="col col-content">
 					<h4>Staff</h4>
+Composer & guitar<br>&nbsp;&nbsp;&nbsp;&nbsp;Kenta Morimoto<br><br>
+Cello<br>&nbsp;&nbsp;&nbsp;&nbsp;Koichi Kawaoka<br><br>
+Percussion<br>&nbsp;&nbsp;&nbsp;&nbsp;Taisuke Morioka<br><br>
+<br>
+Recording engineer<br>&nbsp;&nbsp;&nbsp;&nbsp;Masaoka Odahara<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Isamu Harada<br><br>
+Mixing & mastering<br>&nbsp;&nbsp;&nbsp;&nbsp;Isamu Harada<br><br>
+<br>
+Art director & designer<br>&nbsp;&nbsp;&nbsp;&nbsp;Ryuji Mizuoka<br><br>
+<br>
+Photographer<br>&nbsp;&nbsp;&nbsp;&nbsp;Takahiro Umemura<br><br>
+Stylist<br>&nbsp;&nbsp;&nbsp;&nbsp;Ako<br><br>
+Hair<br>&nbsp;&nbsp;&nbsp;&nbsp;Tsuyoshi Kobayashi (ABLAZE)<br><br>
+<br>
+MV Cinematographer<br>&nbsp;&nbsp;&nbsp;&nbsp;Tomoh Ueda<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hiroko Nishizawa<br><br>
+MV Editor & Web<br>&nbsp;&nbsp;&nbsp;&nbsp;Tomoh Ueda<br><br>
+<br>
+Special thanks<br>&nbsp;&nbsp;&nbsp;&nbsp;Makoto Furuya (BAR LUX)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Tadaaki Yoshioka / Mr. Hiroki<br><br>
+<br>
+Happiman<br>&nbsp;&nbsp;&nbsp;&nbsp;Kohei Okano<br><br>
+Artist manager<br>&nbsp;&nbsp;&nbsp;&nbsp;Akiko Kanei<br><br>
 
-					<i>Composer & guitar:</i>&nbsp;&nbsp;&nbsp;&nbsp;Kenta Morimoto<br>
-					<i>5 strings cello:</i>&nbsp;&nbsp;&nbsp;&nbsp;Koichi Kawaoka<br>
-					<i>Percussion:</i>&nbsp;&nbsp;&nbsp;&nbsp;Taisuke Morikawa<br>
-					<br>
-					<i>Recording engineer:</i>&nbsp;&nbsp;&nbsp;&nbsp;Masahiro Odahara<br>
-					<i>Mixing & mastering engineer:</i>&nbsp;&nbsp;&nbsp;&nbsp;Isamu Harada<br>
-					<br>
-					<i>Manager:</i>&nbsp;&nbsp;&nbsp;&nbsp;Akiko Kanei<br>
-					<i>Photographer:</i>&nbsp;&nbsp;&nbsp;&nbsp;Takahiro Umemura<br>
-					<i>Stylist:</i>&nbsp;&nbsp;&nbsp;&nbsp;ako<br>
-					<i>Hair:</i>&nbsp;&nbsp;&nbsp;&nbsp;Tsuyoshi Kobayashi (ABLAZE)<br>
-					<i>Videographer:</i>&nbsp;&nbsp;&nbsp;&nbsp;Tomoh Ueda / Hiroko Nishizawa<br>
-					<br>
-					<i>Special thanks:</i>&nbsp;&nbsp;&nbsp;&nbsp;Mr.Hiroki<br>
-					<br>
 				</div>
 				<!-- Third column -->
 				<div class="col col-contacts">
