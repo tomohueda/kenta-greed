@@ -235,9 +235,9 @@ Music & Coffee「Rouge」<br>
 					<h4>Staff</h4>
 Composer & guitar<br>&nbsp;&nbsp;&nbsp;&nbsp;Kenta Morimoto<br><br>
 Cello<br>&nbsp;&nbsp;&nbsp;&nbsp;Koichi Kawaoka<br><br>
-Percussion<br>&nbsp;&nbsp;&nbsp;&nbsp;Taisuke Morioka<br><br>
+Percussion<br>&nbsp;&nbsp;&nbsp;&nbsp;Taisuke Morikawa<br><br>
 <br>
-Recording engineer<br>&nbsp;&nbsp;&nbsp;&nbsp;Masaoka Odahara<br>
+Recording engineer<br>&nbsp;&nbsp;&nbsp;&nbsp;Masahiro Odahara<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Isamu Harada<br><br>
 Mixing & mastering<br>&nbsp;&nbsp;&nbsp;&nbsp;Isamu Harada<br><br>
 <br>
