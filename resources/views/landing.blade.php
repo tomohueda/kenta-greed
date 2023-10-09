@@ -22,13 +22,13 @@
 </head>
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7710TGENDN"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8PR23NH9H"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-7710TGENDN');
+  gtag('config', 'G-P8PR23NH9H');
 </script>
 
 <body class="color-scheme-neue">
@@ -256,7 +256,9 @@ Special thanks<br>&nbsp;&nbsp;&nbsp;&nbsp;Makoto Furuya (BAR LUX)<br>
 <br>
 Happiman<br>&nbsp;&nbsp;&nbsp;&nbsp;Kohei Okano<br><br>
 Artist manager<br>&nbsp;&nbsp;&nbsp;&nbsp;Akiko Kanei<br><br>
-
+撮影協力<br>
+リーガロイヤルホテル広島<br>
+BAR LUX<br>
 				</div>
 				<!-- Third column -->
 				<div class="col col-contacts">
