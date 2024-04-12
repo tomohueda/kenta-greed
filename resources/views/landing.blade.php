@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="{{ asset('images/favicon.ico') }}">
-	<title>KENTA MORIMOTO TRIO presents "GREED"</title>
+	<title>KENTA MORIMOTO "GREED"</title>
 	<!-- Modernizr -->
 	<script src="{{ asset('js/modernizr.js')  }}"></script>
 	<!-- Open Sans from Google Webfonts -->
@@ -15,9 +15,9 @@
 	<link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}" />
 	<meta property="og:url" content="https://xs802606.xsrv.jp/kenta-greed/" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="KENTA MORIMOTO TRIO presents GREED" />
-	<meta property="og:description" content="新曲「GREED」は、ギター・チェロ・パーカッションの森本ケンタトリオのために森本ケンタが書き下ろした、セクシーでアンニュイな魅力を放つナンバー" />
-	<meta property="og:site_name" content="森本ケンタトリオ『GREED』2024.4.27 Release" />
+	<meta property="og:title" content="KENTA MORIMOTO GREED" />
+	<meta property="og:description" content="6枚目となるCDアルバム発売決定!前作を上回る意欲作に期待!" />
+	<meta property="og:site_name" content="森本ケンタ NEW ALBUM『GREED』（グリード）2024.4.27 Release" />
 	<meta property="og:image" content="{{ asset('images/greed.jpg') }}" />
 </head>
 
@@ -100,8 +100,8 @@
 		
 		<!-- Detailed info -->
 		<div class="container few-words">
-		<h2>KENTA MORIMOTO TRIO presents "GREED"</h2>
-		新曲「GREED」は、ギター・チェロ・パーカッションの森本ケンタトリオのために森本ケンタが書き下ろした、セクシーでアンニュイな魅力を放つナンバー。<br><br>
+		<h2>KENTA MORIMOTO NEW ALBUM "GREED"</h2>
+		6枚目となるCDアルバム発売決定! 前作を上回る意欲作に期待!<br><br>
 		<div class="row">
 		{{--
 		<div class="col">
@@ -120,7 +120,11 @@
 			1.Rouge 2.jaka-jakaja 3.流星群<br>
 		</div>
 		--}}
-
+		<div class="col">
+			<img src="{{ asset('images/album-greed.jpg') }}" class="img-responsive mt-5" alt="NEW ALBUM「GREED」（グリード）3,500円（税込）OKCD-023" width="300px">
+			<h4>NEW ALBUM「GREED」（グリード）3,500円（税込）OKCD-023</h4>
+			CDとしてのリリースは約 2 年ぶりとなる今作、インストゥルメンタルに転向して 6 年目の「今」を詰め込んだ 1 枚。 ゲストプレイヤーにクラビオーラ奏者の折重由美子をはじめ、ギタリスト小田原政広、そして森本ケンタトリオとして も活動を共にする森川泰介(パーカッション)・川岡光一(チェロ)を迎えてのレコーディング。 独自の世界観と斬新なアプローチ、森本ケンタが得意とするメロディアスなメロディーラインの魅力が詰まった、聞き 応えのあるアルバム。音楽活動 20 年目に突入直前の意欲作がここに完成した。
+		</div>
 		</div>
 			<div class="row">
 				<!-- First column -->
@@ -129,7 +133,7 @@
 				<hr>
 
 				4/27発売 アルバム『GREED』<br>
-				2024.4.27 release「GREED」 <br>
+				収録曲<br>
 				1.GREED <br>
 				2.Rouge <br>
 				3.Tuxedo <br>
