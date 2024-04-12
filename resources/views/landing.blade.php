@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="{{ asset('images/favicon.ico') }}">
-	<title>KENTA MORIMOTO TRIO presents "Rouge"</title>
+	<title>KENTA MORIMOTO TRIO presents "GREED"</title>
 	<!-- Modernizr -->
 	<script src="{{ asset('js/modernizr.js')  }}"></script>
 	<!-- Open Sans from Google Webfonts -->
@@ -13,12 +13,12 @@
 	<link rel="stylesheet" href="{{ asset('css/styles.dev.css') }}" />
 	<!-- Icons via Font Awesome -->
 	<link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}" />
-	<meta property="og:url" content="https://xs802606.xsrv.jp/kenta-rouge/" />
+	<meta property="og:url" content="https://xs802606.xsrv.jp/kenta-greed/" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="KENTA MORIMOTO TRIO presents Rouge" />
-	<meta property="og:description" content="新曲「Rouge」は、ギター・チェロ・パーカッションの森本ケンタトリオのために森本ケンタが書き下ろした、セクシーでアンニュイな魅力を放つナンバー" />
-	<meta property="og:site_name" content="森本ケンタトリオ『Rouge』2023.10.8 Release" />
-	<meta property="og:image" content="{{ asset('images/landing_image_13.21.jpg') }}" />
+	<meta property="og:title" content="KENTA MORIMOTO TRIO presents GREED" />
+	<meta property="og:description" content="新曲「GREED」は、ギター・チェロ・パーカッションの森本ケンタトリオのために森本ケンタが書き下ろした、セクシーでアンニュイな魅力を放つナンバー" />
+	<meta property="og:site_name" content="森本ケンタトリオ『GREED』2024.4.27 Release" />
+	<meta property="og:image" content="{{ asset('images/greed.jpg') }}" />
 </head>
 
 <!-- Google tag (gtag.js) -->
@@ -35,7 +35,7 @@
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
 	<!--<div class="bg-img view_timer" data-end-date="{{$startTime}}" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover;"></div>-->
-    <div class="bg-img view_timer" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/landing_image_13.21.jpg') }}) no-repeat center center; background-size: contain;  background-position-y: top;"></div>
+    <div class="bg-img view_timer" style="opacity: 0.5; width: 100%; height: 100%; position: fixed; background: url({{ asset('images/greed.jpg') }}) no-repeat center center; background-size: contain;  background-position-y: top;"></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
@@ -45,10 +45,10 @@
 				<!--<h1>Coming soon!</h1> -->
 				
 				<!-- Sub header -->
-				<p class="lead" style="margin-top:10px">KENTA MORIMOTO TRIO<br>presents</p>
+				<p class="lead" style="margin-top:50px; line-height: 1.5em;">KENTA MORIMOTO TRIO<br>presents</p>
 				
 				<!-- Countdown -->
-				<div class="countdown circled large" style="margin-top:5px">
+				<div class="countdown circled large" style="margin-top:0px">
 					<!-- Days -->
 					<div class="time days">
 						<div class="value">00</div>
@@ -88,19 +88,6 @@
 				<!--(動画が表示されない場合はこのページを再読み込みしてください)-->
 				<!--<p class="lead">Now on Youtube!</p>-->
             </div>
-			<!--
-			<div class="social">
-						<a href="https://www.youtube.com/user/MorimotoKentaTV" class="social-icon" target="_blank">
-							<i class="fa fa-youtube fa-lg"></i>
-						</a>
-						<a href="https://www.facebook.com/profile.php?id=100043091613250" class="social-icon" target="_blank">
-							<i class="fa fa-facebook fa-lg"></i>
-						</a>
-						<a href="https://morimotokenta.com/" class="social-icon" target="_blank">
-							<i class="fa fa-laptop fa-lg"></i>
-						</a>
-			</div>
-			-->
 		</div>
 
 	</div>
@@ -113,10 +100,10 @@
 		
 		<!-- Detailed info -->
 		<div class="container few-words">
-		<h2>KENTA MORIMOTO TRIO presents "Rouge"</h2>
-		新曲「Rouge」は、ギター・チェロ・パーカッションの森本ケンタトリオのために森本ケンタが書き下ろした、セクシーでアンニュイな魅力を放つナンバー。<br><br>
+		<h2>KENTA MORIMOTO TRIO presents "GREED"</h2>
+		新曲「GREED」は、ギター・チェロ・パーカッションの森本ケンタトリオのために森本ケンタが書き下ろした、セクシーでアンニュイな魅力を放つナンバー。<br><br>
 		<div class="row">
-			
+		{{--
 		<div class="col">
 			<a href="https://kentamorimoto.shop-pro.jp/" target="_blank"><img src="{{ asset('images/rouge_chirashi_v2.jpg') }}" class="img-responsive mt-5" alt="Rouge Music & Coffee" width="300px"></a>
 		
@@ -132,133 +119,91 @@
 			●収録曲<br>
 			1.Rouge 2.jaka-jakaja 3.流星群<br>
 		</div>
-		
+		--}}
 
 		</div>
 			<div class="row">
 				<!-- First column -->
 				<div class="col col-heading">
 				<h4>News</h4>
-				<!--<hr>
-				●森本ケンタ『Tuxedo』<br>
-				ミュージックビデオ<br>
-				<a href="https://youtu.be/VIrxjOtWKuk" target="_blank">https://youtu.be/VIrxjOtWKuk</a><br>
-					-->
 				<hr>
-				【発売イベント】<br>
-				10/8発売<br>
-Music & Coffee『Rouge』<br>
-■ラジオ出演情報<br>
-<br>
-●9/30(土) 新曲初披露！<br>
-RCCラジオ 「森本ケンタのハッピータイムRADIO♪』<br>
-提供：はつかいちサンブレイズ<br>
-<br>
-●10/2(月) 出演時間10:30 予定<br>
-FM はつかいち 『キラキラ☆アートBOX』<br>
-<br>
-●10/2(月)出演時間13:30 予定<br>
-FMちゅーぴー 『広島すまいるパフェ 』<br>
-<br>
-●10/2(月)出演時間18:00 予定<br>
-RCCラジオ『それ聴けveryカープ 』<br>
-<br>
-●10/3(火)出演時間13:10 予定<br>
-RCCラジオ『おひるーな 』<br>
-<br>
-●10/9(月祝)出演時間17:15 予定<br>
-FMふくやま 『イブニングステーション 』<br>
-<br>
-●10/12(木)出演時間10:15 予定<br>
-広島FM 『神原隆秀のGOODJOG 』<br>
-<br>
-※変更する場合もございますので、詳しくは公式サイトのスケジュールからご確認ください<br>
+
+				4/27発売 アルバム『GREED』<br>
+				2024.4.27 release「GREED」 <br>
+				1.GREED <br>
+				2.Rouge <br>
+				3.Tuxedo <br>
+				4.cappuccino <br>
+				5.Phantom <br>
+				6.流星群 <br>
+				7.jaka-jakaja<br> 
+				8.Julieta Trio ver. <br>
+				9.Memories <br>
+				10.Good Day Bossa Nova ver. <br>
+				<br>
+				<br>
+				All Music by Kenta Morimoto  <br>				
 <br>
 <br>
-■リリースLIVE<br>
-<br>
-Music & Coffee「Rouge」<br>
-発売イベント（10月）<br>
-<br>
-●10/8（日）<br>
-会場：広島駅南口地下広場特設ステージ<br>
-時間：13:00<br>
-出演：森本ケンタトリオ（森本ケンタ・森川泰介・川岡光一）<br>
-<br>
-※観覧無料<br>
-※販売は12:30 予定<br>
-※ステージ後にサイン会<br>
-※発売日5種類購入特典：森本ケンタトリオと記念撮影会<br>
-<br>
-<br>
-●10/9（月祝）<br>
-会場：そごう広島店正面玄関前<br>
-時間：14:00 <br>
-※観覧無料<br>
-※販売・サイン会は、そごう広島店本館5階Hiroshimarche Etto内で行います<br>
-<br>
-<br>
-「美味しいコーヒー淹れますよ」<br>
-会場：そごう広島店本館5階エスカレーター横<br>
-時間：15:00 <br>
-料金：Tallman’s Cafe Premium  1杯 550円（税込）<br>
-※テイクアウトのみとなります<br>
-※サイン会とコーヒーのお渡しは同じ列でお並び下さい<br>
-※コーヒーカウンターの周りに立ち止まらないようお願い致します<br>
-<br>
-<br>
-●10/14（土）<br>
-会場：フジグラン神辺<br>
-時間：①11:00 ／ ②14:00<br>
-<br>
-※観覧無料<br>
-※ステージ後に販売・サイン会を行います<br>
-<br>
-<br>
-●10/28（土）<br>
-会場：イオンタウン防府<br>
-時間：①13:00 ／②15:00<br>
-<br>
-※観覧無料<br>
-※ステージ後に販売・サイン会を行います<br>
-<br>
-<br>
-●10/29（日）フレスタモールカジル横川ハロウィンナイト2023ゲスト<br>
-会場：カジル横川特設ステージ<br>
-時間：16:30<br>
-<br>
-※観覧無料<br>
-※ステージ後に販売・サイン会を行います
+
+				メディア告知出演情報<br>
+				（2024.4.11現在）<br>
+				<br>
+				●4/13(土) 新曲初披露！<br>
+				RCCラジオ『森本ケンタのハッピータイムRADIO♪』<br>
+				提供：はつかいちサンブレイズ<br>
+				<br>
+				●4/15(月) 出演時間18:20〜予定<br>
+				RCCラジオ『それ聴け！カープ 』<br>
+				<br>
+				●4/16(火)出演時間17:10〜予定<br>
+				NHKラジオ『ひろしまコイらじ 』<br>
+				<br>
+				●4/22(月)出演時間10:30〜予定<br>
+				FM はつかいち 『キラキラ☆アートBOX』<br>
+				<br>
+				●4/22(月)出演時間13:30〜予定<br>
+				FMちゅーピー『広島すまいるパフェ』<br>
+				<br>
+				●4/25(木)発売<br>
+				『TJ Hiroshima』5月号掲載<br>
+				<br>
+				●4/25(木)出演時間17:45〜予定<br>
+				エフエムふくやま『イブニングステーション 』<br>
+				<br>
+				●5/9(木)出演時間10:15〜予定<br>
+				広島FM 『神原隆秀のGOOD JOB 』<br>
+				<br>
+				※追加情報やスケジュールが変更する場合もございますので、詳しくは公式サイトのスケジュールからご確認ください<br>
 				</div>
 				<!-- Second column -->
 				<div class="col col-content">
 					<h4>Staff</h4>
-Composer & guitar<br>&nbsp;&nbsp;&nbsp;&nbsp;Kenta Morimoto<br><br>
-Cello<br>&nbsp;&nbsp;&nbsp;&nbsp;Koichi Kawaoka<br><br>
-Percussion<br>&nbsp;&nbsp;&nbsp;&nbsp;Taisuke Morikawa<br><br>
-<br>
-Recording engineer<br>&nbsp;&nbsp;&nbsp;&nbsp;Masahiro Odahara<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Isamu Harada<br><br>
-Mixing & mastering<br>&nbsp;&nbsp;&nbsp;&nbsp;Isamu Harada<br><br>
-<br>
-Art director & designer<br>&nbsp;&nbsp;&nbsp;&nbsp;Ryuji Mizuoka<br><br>
-<br>
-Photographer<br>&nbsp;&nbsp;&nbsp;&nbsp;Takahiro Umemura<br><br>
-Stylist<br>&nbsp;&nbsp;&nbsp;&nbsp;Ako<br><br>
-Hair<br>&nbsp;&nbsp;&nbsp;&nbsp;Tsuyoshi Kobayashi (ABLAZE)<br><br>
-<br>
-MV Cinematographer<br>&nbsp;&nbsp;&nbsp;&nbsp;Tomoh Ueda<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Hiroko Nishizawa<br><br>
-MV Editor & Web<br>&nbsp;&nbsp;&nbsp;&nbsp;Tomoh Ueda<br><br>
-<br>
-Special thanks<br>&nbsp;&nbsp;&nbsp;&nbsp;Makoto Furuya (BAR LUX)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Tadaaki Yoshioka / Mr. Hiroki<br><br>
-<br>
-Happiman<br>&nbsp;&nbsp;&nbsp;&nbsp;Kohei Okano<br><br>
-Artist manager<br>&nbsp;&nbsp;&nbsp;&nbsp;Akiko Kanei<br><br>
-撮影協力<br>
-リーガロイヤルホテル広島<br>
-BAR LUX<br>
+					
+					Kenta Morimoto played on Guitar <br>
+					Taisuke Morikawa played on Percussion (M1,2,3,4,5,6,7,8,9) <br>
+					Koichi Kawaoka played on Five-Strings Cello(M12,3,5,6,7,8) <br>
+					<br>
+					-Additional Musicians-  <br>
+					Yumiko Orishige played on Piano(M1,4,9)   <br>
+					Masahiro Odahara played on Guitar(M10) <br>
+					<br>
+					<br>
+					Recording at スタジオ コバト,nyan2 studio L.A.<br>
+					Recording Engineer : Isamu Harada <br>
+					Mixing Engineer : Isamu Harada <br>
+					Mastering Engineer : Isamu Harada  <br>
+					Art Direction & Design : Ryuji Mizuoka (Arsdesign)  <br>
+					Photography :Takahiro Umemura <br>
+					Stylist : ako <br>
+					Hair : Tsuyoshi Kobayashi (ABLAZE) <br>
+					<br>
+					office KENTA staff:Mayu Misaka,Mika Yamamura,Kohei Okano <br>
+					<br>
+					Artists Manager : Akiko Kanei  <br>
+					Special Thanks  <br>
+					Blue Stripe / 森本ケンタ後援会 <br>
+					Mr. Hiroki / W the Bride's Suite<br>
 				</div>
 				<!-- Third column -->
 				<div class="col col-contacts">
@@ -290,7 +235,7 @@ BAR LUX<br>
 		<!-- Footer -->
 		<div class="footer">
 			<div class="container">
-				&copy; 2023 office KENTA, All rights reserved.
+				&copy; 2024 office KENTA, All rights reserved.
 			</div>
 		</div>
 		<!-- Footer end -->
