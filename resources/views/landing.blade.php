@@ -35,7 +35,7 @@
 	<!-- Animated background -->
 	<canvas id="bg-canvas"></canvas>
 	<!--<div class="bg-img view_timer" data-end-date="{{$startTime}}" style="width: 100%; height: 100%; position: fixed; background: url({{ asset('images/gtr.jpg') }}) no-repeat center center; background-size: cover;"></div>-->
-    <div class="bg-img view_timer" style="opacity: 0.5; width: 100%; height: 100%; position: fixed; background: url({{ asset('images/greed.jpg') }}) no-repeat center center; background-size: contain;  background-position-y: top;"></div>
+    <div class="bg-img view_timer" style="opacity: 0.4; width: 100%; height: 100%; position: fixed; background: url({{ asset('images/greed.jpg') }}) no-repeat center center; background-size: contain;  background-position-y: top;"></div>
 	<!-- First screen -->
     <!--count down-->
 	<div class="splash">
