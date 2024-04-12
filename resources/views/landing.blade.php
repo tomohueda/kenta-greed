@@ -45,7 +45,7 @@
 				<!--<h1>Coming soon!</h1> -->
 				
 				<!-- Sub header -->
-				<p class="lead" style="margin-top:50px; line-height: 1.5em;">KENTA MORIMOTO TRIO<br>presents</p>
+				<p class="lead" style="margin-top:50px; line-height: 1.5em;">KENTA MORIMOTO</p>
 				
 				<!-- Countdown -->
 				<div class="countdown circled large" style="margin-top:0px">
