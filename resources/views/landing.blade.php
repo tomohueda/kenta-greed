@@ -15,7 +15,7 @@
 	<link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}" />
 	<meta property="og:url" content="https://xs802606.xsrv.jp/kenta-greed/" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="KENTA MORIMOTO GREED" />
+	<meta property="og:title" content="森本ケンタ NEW ALBUM 『GREED』" />
 	<meta property="og:description" content="6枚目となるCDアルバム発売決定!前作を上回る意欲作に期待!" />
 	<meta property="og:site_name" content="森本ケンタ NEW ALBUM『GREED』（グリード）2024.4.27 Release" />
 	<meta property="og:image" content="{{ asset('images/greed.jpg') }}" />
