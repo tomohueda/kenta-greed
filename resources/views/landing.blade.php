@@ -182,8 +182,7 @@
 				</div>
 				<!-- Second column -->
 				<div class="col col-content">
-					<h4>Staff</h4>
-					
+					<br><br><br>
 					Kenta Morimoto played on Guitar <br>
 					Taisuke Morikawa played on Percussion (M1,2,3,4,5,6,7,8,9) <br>
 					Koichi Kawaoka played on Five-Strings Cello(M12,3,5,6,7,8) <br>
