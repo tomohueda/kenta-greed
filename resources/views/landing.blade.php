@@ -22,13 +22,13 @@
 </head>
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8PR23NH9H"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BW7B804NDM"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-P8PR23NH9H');
+  gtag('config', 'G-BW7B804NDM');
 </script>
 
 <body class="color-scheme-neue">
