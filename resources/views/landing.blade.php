@@ -234,9 +234,13 @@
 			</div>
 		</div>
 
+		<div class="col" style="text-align: center;">
+			協賛企業<br><br>
+			<img src="{{ asset('images/sponcer.png') }}" class="img-responsive mt-5" alt="協賛" width="100%">
+		</div>
 
 		<!-- Footer -->
-		<div class="footer">
+		<div class="footer">			
 			<div class="container">
 				&copy; 2024 office KENTA, All rights reserved.
 			</div>
