@@ -21,7 +21,7 @@
 	<meta property="og:image" content="{{ asset('images/greed.jpg') }}" />
 	<style>
         .sponcer_img{
-			width: 40%;
+			width: 350px;
 			float: left;
 			margin: 20px;
 		}
@@ -241,7 +241,7 @@
 			</div>
 		</div>
 
-		<div class="col" style="text-align: center; width: 100%;">
+		<div class="col" style="text-align: left; width: 100%;">
 			協賛企業<br><br>
 			<img src="{{ asset('images/sponcer/01.png') }}" class="sponcer_img" alt="協賛">
 			<img src="{{ asset('images/sponcer/02.png') }}" class="sponcer_img" alt="協賛">
