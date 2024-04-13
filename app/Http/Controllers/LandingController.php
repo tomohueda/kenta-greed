@@ -13,7 +13,7 @@ class LandingController extends Controller
             'landing',
             [
                 'startTime' => $startTime,
-                'youtube'   => 'https://youtu.be/b_I3YsoK2FU',
+                'youtube'   => 'https://www.youtube.com/embed/b_I3YsoK2FU?si=kgcJRGte8Lw1hBSL',
             ]
         );
     }
