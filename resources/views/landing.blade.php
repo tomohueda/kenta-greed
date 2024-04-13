@@ -19,6 +19,13 @@
 	<meta property="og:description" content="6枚目となるCDアルバム発売決定!インストゥルメンタルに転向して6年目の「今」を詰め込んだ1枚。" />
 	<meta property="og:site_name" content="森本ケンタ NEW ALBUM『GREED』（グリード）2024.4.27 Release" />
 	<meta property="og:image" content="{{ asset('images/greed.jpg') }}" />
+	<style>
+        .sponcer_img{
+			width: 40%;
+			float: left;
+			margin: 20px;
+		}
+    </style>
 </head>
 
 <!-- Google tag (gtag.js) -->
@@ -234,9 +241,17 @@
 			</div>
 		</div>
 
-		<div class="col" style="text-align: center;">
+		<div class="col" style="text-align: center; width: 100%;">
 			協賛企業<br><br>
-			<img src="{{ asset('images/sponcer.png') }}" class="img-responsive mt-5" alt="協賛" width="100%">
+			<img src="{{ asset('images/sponcer/01.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer/02.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer/03.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer/04.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer/05.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer/06.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer/07.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer/08.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer/09.png') }}" class="sponcer_img" alt="協賛">
 		</div>
 
 		<!-- Footer -->
