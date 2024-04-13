@@ -21,7 +21,7 @@
 	<meta property="og:image" content="{{ asset('images/greed.jpg') }}" />
 	<style>
         .sponcer_img{
-			width: 350px;
+			width: 270px;
 			float: left;
 			margin: 20px;
 		}
