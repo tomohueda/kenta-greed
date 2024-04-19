@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class LandingController extends Controller
 {
     public function show(){
-        $startTime = "2024-04-20 12:00:00";
+        $startTime = "2024-04-19 06:00:00";
         return view (
             //'top',
             'landing',
