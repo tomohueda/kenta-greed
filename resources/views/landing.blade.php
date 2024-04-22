@@ -134,57 +134,62 @@
 				<h4>News</h4>
 				<hr>
 
-				4/27発売 アルバム『GREED』<br>
-				収録曲<br>
-				1.GREED <br>
-				2.Rouge <br>
-				3.Tuxedo <br>
-				4.cappuccino <br>
-				5.Phantom <br>
-				6.流星群 <br>
-				7.jaka-jakaja<br> 
-				8.Julieta Trio ver. <br>
-				9.Memories <br>
-				10.Good Day Bossa Nova ver. <br>
-				<br>
-				<br>
-				All Music by Kenta Morimoto  <br>				
-<br>
-<br>
 
-				メディア告知出演情報<br>
-				（2024.4.11現在）<br>
-				<br>
-				●4/13(土) 新曲初披露！<br>
-				RCCラジオ『森本ケンタのハッピータイムRADIO♪』<br>
-				提供：はつかいちサンブレイズ<br>
-				<br>
-				●4/15(月) 出演時間18:20〜予定<br>
-				RCCラジオ『それ聴け！カープ 』<br>
-				<br>
-				●4/16(火)出演時間17:10〜予定<br>
-				NHKラジオ『ひろしまコイらじ 』<br>
-				<br>
-				●4/22(月)出演時間10:30〜予定<br>
-				FM はつかいち 『キラキラ☆アートBOX』<br>
-				<br>
-				●4/22(月)出演時間13:30〜予定<br>
-				FMちゅーピー『広島すまいるパフェ』<br>
-				<br>
-				●4/25(木)発売<br>
-				『TJ Hiroshima』5月号掲載<br>
-				<br>
-				●4/25(木)出演時間17:45〜予定<br>
-				エフエムふくやま『イブニングステーション 』<br>
-				<br>
-				●5/9(木)出演時間10:15〜予定<br>
-				広島FM 『神原隆秀のGOOD JOB 』<br>
-				<br>
-				※追加情報やスケジュールが変更する場合もございますので、詳しくは公式サイトのスケジュールからご確認ください<br>
+
+メディア告知出演情報<br>
+（2024.4.22現在）<br>
+<br>
+●4/13(土) 新曲初披露！<br>
+RCCラジオ『森本ケンタのハッピータイムRADIO♪』<br>
+提供：はつかいちサンブレイズ<br>
+<br>
+●4/15(月) 出演時間18:20〜予定<br>
+RCCラジオ『それ聴け！カープ 』<br>
+<br>
+●4/16(火)出演時間17:10〜予定<br>
+NHKラジオ『ひろしまコイらじ 』<br>
+<br>
+●4/22(月)出演時間10:30〜予定<br>
+FM はつかいち 『キラキラ☆アートBOX』<br>
+<br>
+●4/22(月)出演時間13:30〜予定<br>
+FMちゅーピー『広島すまいるパフェ』<br>
+<br>
+●4/25(木)発売<br>
+『TJ Hiroshima』5月号掲載<br>
+<br>
+●4/25(木)生出演<br>
+テレビ新広島『ひろしま満点ママ‼』<br>
+<br>
+●4/25(木)出演時間17:45〜予定<br>
+エフエムふくやま『イブニングステーション 』<br>
+<br>
+●4/26(金)生出演<br>
+広島ホームテレビ『ピタニュー』<br>
+<br>
+●5/9(木)出演時間10:15〜予定<br>
+広島FM 『神原隆秀のGOOD JOB 』<br>
+<br>
+※追加情報やスケジュールが変更する場合もございますので、詳しくは公式サイトのスケジュールからご確認ください<br>
 				</div>
 				<!-- Second column -->
 				<div class="col col-content">
-					<br><br><br>
+				<h4>4/27発売 アルバム『GREED』</h4>
+				<hr>
+					収録曲<br>
+					1.GREED <br>
+					2.Rouge <br>
+					3.Tuxedo <br>
+					4.cappuccino <br>
+					5.Phantom <br>
+					6.流星群 <br>
+					7.jaka-jakaja<br> 
+					8.Julieta Trio ver. <br>
+					9.Memories <br>
+					10.Good Day Bossa Nova ver. <br>
+<br>
+					All Music by Kenta Morimoto  <br>				
+	<br>
 					Kenta Morimoto played on Guitar <br>
 					Taisuke Morikawa played on Percussion (M1,2,3,4,5,6,7,8,9) <br>
 					Koichi Kawaoka played on Five-Strings Cello(M12,3,5,6,7,8) <br>
@@ -192,7 +197,6 @@
 					-Additional Musicians-  <br>
 					Yumiko Orishige played on Piano(M1,4,9)   <br>
 					Masahiro Odahara played on Guitar(M10) <br>
-					<br>
 					<br>
 					Recording at スタジオ コバト,nyan2 studio L.A.<br>
 					Recording Engineer : Isamu Harada <br>
@@ -212,7 +216,8 @@
 				</div>
 				<!-- Third column -->
 				<div class="col col-contacts">
-				<h4>Web</h4>
+					<h4>Link</h4>
+					<hr>
 					<p class="text-center">
 					<!--<h4><i class="fa fa-globe"></i>&nbsp;&nbsp;Web</h4>-->
 					<i class="fa fa-home"></i>&nbsp;&nbsp;Kenta Morimoto Official<br>
