@@ -243,15 +243,13 @@ FMちゅーピー『広島すまいるパフェ』<br>
 
 		<div class="col" style="text-align: left; width: 100%;">
 			協賛企業<br><br>
-			<img src="{{ asset('images/sponcer/01.png') }}" class="sponcer_img" alt="協賛">
-			<img src="{{ asset('images/sponcer/02.png') }}" class="sponcer_img" alt="協賛">
-			<img src="{{ asset('images/sponcer/03.png') }}" class="sponcer_img" alt="協賛">
-			<img src="{{ asset('images/sponcer/04.png') }}" class="sponcer_img" alt="協賛">
-			<img src="{{ asset('images/sponcer/05.png') }}" class="sponcer_img" alt="協賛">
-			<img src="{{ asset('images/sponcer/06.png') }}" class="sponcer_img" alt="協賛">
-			<img src="{{ asset('images/sponcer/07.png') }}" class="sponcer_img" alt="協賛">
-			<img src="{{ asset('images/sponcer/08.png') }}" class="sponcer_img" alt="協賛">
-			<img src="{{ asset('images/sponcer/09.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer_v2/01.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer_v2/02.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer_v2/03.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer_v2/04.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer_v2/05.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer_v2/06.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer_v2/07.png') }}" class="sponcer_img" alt="協賛">
 		</div>
 
 		<!-- Footer -->
