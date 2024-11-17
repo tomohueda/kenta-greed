@@ -250,6 +250,7 @@ FMちゅーピー『広島すまいるパフェ』<br>
 			<img src="{{ asset('images/sponcer_v2/05.png') }}" class="sponcer_img" alt="協賛">
 			<img src="{{ asset('images/sponcer_v2/06.png') }}" class="sponcer_img" alt="協賛">
 			<img src="{{ asset('images/sponcer_v2/07.png') }}" class="sponcer_img" alt="協賛">
+			<img src="{{ asset('images/sponcer_v2/08.png') }}" class="sponcer_img" alt="協賛">
 		</div>
 
 		<!-- Footer -->
